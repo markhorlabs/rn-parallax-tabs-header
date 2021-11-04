@@ -298,4 +298,5 @@ RNParallax.defaultProps = {
   minImageOpacity: 0,
 };
 
+// Test Comment
 export default RNParallax;
